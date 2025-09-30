@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Sobre mim
 - 📍 São Paulo — Brasil  
-- 🎓 Curso **Ciência da Computação**  
+- 🎓 Curso **Ciência da Computação**  - Universidade Presbiteriana Mackenzie
 - ⚽ **Corinthiano** e amante de futebol  
 - 🧩 Gosto de **quebrar problemas grandes** em partes simples e resolver com código  
 - 🔄 Sempre estudando novas **stacks, padrões e boas práticas**
