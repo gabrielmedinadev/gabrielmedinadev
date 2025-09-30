@@ -1,8 +1,5 @@
 # 👋 Olá! Eu sou o Gabriel
 
-**Cientista da Computação** em SP, apaixonado por tecnologia, futebol (🖤🤍 vai, Corinthians!) e por resolver problemas.  
-Curioso por natureza, estou **sempre me atualizando** nas tecnologias do mercado e construindo projetos que viram aprendizado real.
-
 ---
 
 ## 🧑‍💻 Sobre mim
