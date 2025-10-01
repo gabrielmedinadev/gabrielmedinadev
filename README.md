@@ -2,7 +2,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👱🏼‍♂️ Sobre mim
 - 📍 São Paulo — Brasil  
 - 🎓 Curso **Ciência da Computação**  - Universidade Presbiteriana Mackenzie
 - ⚽ **Corinthiano** e amante de futebol  
